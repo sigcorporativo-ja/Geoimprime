@@ -1,0 +1,16 @@
+{
+  "name": "grunt-geocoder",
+  "version": "1.0.0",
+  "description": "Geocodifica un fichero de direcciones en csv",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "author": "fbma",
+  "license": "MIT",
+  "devDependencies": {
+    "csv": "^0.4.6",
+    "fast-csv": "^0.6.0",
+    "grunt": "^0.4.5"
+  }
+}
