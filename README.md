@@ -13,3 +13,9 @@ Requisitos
 ----------
 - Grunt, node
 - Visibilidad de Geoprint Integración (definición plantillas)
+
+Estado actual
+------------
+- Sólo trabaja con municipio/provincia, no con cod INE.
+- Tareas dependientes de los resultados de las anteriores, no pueden llamarse de manera independiente.
+- Gestión de errores limitada.
